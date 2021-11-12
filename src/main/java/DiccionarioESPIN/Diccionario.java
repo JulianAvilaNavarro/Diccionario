@@ -13,8 +13,8 @@ public class Diccionario {
         String sGuardar="";
         while(opcion!=4) {
             System.out.println("\nBievenido a tu Diccionario Español / Ingles en JAVA");
-            System.out.println("\nEste diccioonario presenta 4 opcionesde trabajo");
-            System.out.println("1. Añadir una palabra y su siginificado al diccionario.");
+            System.out.println("\nEste diccionario presenta 4 opciones de trabajo");
+            System.out.println("1. Añadir una palabra y su significado al diccionario.");
             System.out.println("2. Impimir el diccionario.");
             System.out.println("3. Buscar una palabra del diccionario.");
             System.out.print("4. Salir de la aplicación.");

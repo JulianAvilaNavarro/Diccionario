@@ -9,3 +9,4 @@ correr run
 libro book
 mano hand
 llave key
+comer eat
